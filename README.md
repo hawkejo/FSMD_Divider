@@ -1,6 +1,6 @@
 
 # FSMD_Divider
-A SystemVerilog implementation for a division circuit with necessary control modules to use on a Nexys 4 DDR FPGA board.  The design was created with help from a professor at BYU-Idaho.  Only source files are included here, so they must be included in whatever HDL development environment you use.
+A SystemVerilog implementation for a division circuit with necessary control modules to use on a Nexys 4 DDR or Nexys A7-100T FPGA board.  The design was created with help from a professor at BYU-Idaho.  Only source files are included here, so they must be included in whatever HDL development environment you use.
 The design is broken into various modules and one constraints file.  Brief descriptions are as follows:
 
 Primary modules:
